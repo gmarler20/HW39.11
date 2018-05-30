@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HW 3 9.11.cpp">
+    <ClCompile Include="hw3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
